@@ -1,0 +1,706 @@
+<Product>
+	<Item>
+		<ProductNumber>000001</ProductNumber>
+		<Name>Milk 2%</Name>
+		<Category>Dairy Products</Category>
+		<Company>Birchland Industries</Company>
+		<Description>Fresh Milk to Thirst your Quench!</Description>
+		<Price>$4.25</Price>
+		<Sale>$3.95</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/1.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000002</ProductNumber>
+		<Name>FatMan's Cheese</Name>
+		<Category>Dairy Products</Category>
+		<Company>Birchland Industries</Company>
+		<Description>Fresh cheese made from wholesome milk</Description>
+		<Price>$1.90</Price>
+		<Sale>$1.50</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/2.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000003</ProductNumber>
+		<Name>Birchland Eggs</Name>
+		<Category>Dairy Products</Category>
+		<Company>Birchland Industries</Company>
+		<Description>A Dozen of Wholesome Eggs!</Description>
+		<Price>$3.90</Price>
+		<Sale>$2.99</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/3.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000004</ProductNumber>
+		<Name>Yogo Brands</Name>
+		<Category>Dairy Products</Category>
+		<Company>Yogo</Company>
+		<Description>Yogurt, that Simply Taste Great!</Description>
+		<Price>$1.50</Price>
+		<Sale>$1.25</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/4.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000005</ProductNumber>
+		<Name>Chocolate Milk</Name>
+		<Category>Beverages</Category>
+		<Company>Nestle</Company>
+		<Description>Less Sugar than other Flavoured Milk Beverages</Description>
+		<Price>$3.99</Price>
+		<Sale>$3.50</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/5.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000006</ProductNumber>
+		<Name>Coke-a-Cola</Name>
+		<Category>Beverages</Category>
+		<Company>Coke</Company>
+		<Description>1 Litre, Soft Drink</Description>
+		<Price>$1.90</Price>
+		<Sale>$1.50</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/6.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000007</ProductNumber>
+		<Name>Fanta Orange</Name>
+		<Category>Beverages</Category>
+		<Company>Fanta</Company>
+		<Description>Orange Flavoured Fanta Cans</Description>
+		<Price>$2.99</Price>
+		<Sale>$2.25</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/7.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000008</ProductNumber>
+		<Name>Soya Organic</Name>
+		<Category>Beverages</Category>
+		<Company>granoVita</Company>
+		<Description>Soya Milk with no Added Sugar</Description>
+		<Price>$1.99</Price>
+		<Sale>$1.79</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/8.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000009</ProductNumber>
+		<Name>Pure and Natural Orange Juice</Name>
+		<Category>Beverages</Category>
+		<Company>Tropicana</Company>
+		<Description>Orange Juice with No Pulp</Description>
+		<Price>$1.90</Price>
+		<Sale>$1.50</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/9.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000010</ProductNumber>
+		<Name>Natural Spring Water</Name>
+		<Category>Beverages</Category>
+		<Company>Nestle</Company>
+		<Description>24 pack, Water Bottles</Description>
+		<Price>$2.90</Price>
+		<Sale>$1.60</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/10.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000011</ProductNumber>
+		<Name>Bliss</Name>
+		<Category>Beverages</Category>
+		<Company>Nestle</Company>
+		<Description>Yogurt Drinks with a Variety of Flacours!</Description>
+		<Price>$4.99</Price>
+		<Sale>$3.99</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/11.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000012</ProductNumber>
+		<Name>Sprite Zero</Name>
+		<Category>Beverages</Category>
+		<Company>Coke</Company>
+		<Description>Soft Drink, with Zero Sugar!</Description>
+		<Price>$2.89</Price>
+		<Sale>$2.69</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/12.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000013</ProductNumber>
+		<Name>Whole Wheat Bread</Name>
+		<Category>Grain Products</Category>
+		<Company>Breado's</Company>
+		<Description>Whole Wheat Bread, Baked to Perfection!</Description>
+		<Price>$1.59</Price>
+		<Sale>$1.50</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/13.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000014</ProductNumber>
+		<Name>Chocolate Cheerios</Name>
+		<Category>Grain Products</Category>
+		<Company>Cheerios</Company>
+		<Description>Chocolate Flavoured Cereal!</Description>
+		<Price>$2.99</Price>
+		<Sale>$2.87</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/14.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000015</ProductNumber>
+		<Name>Thin Bagels</Name>
+		<Category>Grain Products</Category>
+		<Company>Dempster's</Company>
+		<Description>Thin Bagels, made with Whole Wheat Bread.</Description>
+		<Price>$1.99</Price>
+		<Sale>$1.70</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/15.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000016</ProductNumber>
+		<Name>Itallian Breads</Name>
+		<Category>Grain Products</Category>
+		<Company>Birchland Industries</Company>
+		<Description>Freshly Baked Italian Bread!</Description>
+		<Price>$0.99</Price>
+		<Sale>$0.89</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/16.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000017</ProductNumber>
+		<Name>Long Grain Basmati Rice</Name>
+		<Category>Grain Products</Category>
+		<Company>Godawari</Company>
+		<Description>Uncooked Rice Bag</Description>
+		<Price>$7.99</Price>
+		<Sale>$6.99</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/17.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000018</ProductNumber>
+		<Name>Spaghetti</Name>
+		<Category>Grain Products</Category>
+		<Company>Pastene</Company>
+		<Description>Whole Wheat Spaghett Imported From Italy!</Description>
+		<Price>$3.90</Price>
+		<Sale>$2.50</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/18.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000019</ProductNumber>
+		<Name>Pasta 'n' Sauce</Name>
+		<Category>Grain Products</Category>
+		<Company>Batchelors</Company>
+		<Description>Premade Pasta mixed with Tomato, Onion and Herb Sauce</Description>
+		<Price>$4.95</Price>
+		<Sale>$3.50</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/19.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000020</ProductNumber>
+		<Name>Eggo</Name>
+		<Category>Grain Products</Category>
+		<Company>Kellogg's</Company>
+		<Description>Premade Whole Wheat Waffles </Description>
+		<Price>$3.00</Price>
+		<Sale>$2.50</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/20.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000021</ProductNumber>
+		<Name>Chicken Breast Tenders</Name>
+		<Category>Meat Products</Category>
+		<Company>Birchland Industries</Company>
+		<Description>Tender Chicken Breasts</Description>
+		<Price>$4.99</Price>
+		<Sale>$4.39</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/21.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000022</ProductNumber>
+		<Name>Fish Sticks</Name>
+		<Category>Meat Products</Category>
+		<Company>Gortan's</Company>
+		<Description>18 Crunchy Breaded Fish Sticks</Description>
+		<Price>$6.99</Price>
+		<Sale>$5.25</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/22.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000023</ProductNumber>
+		<Name>Chicken Nuggets </Name>
+		<Category>Meat Products</Category>
+		<Company>Gortan's</Company>
+		<Description>Tender Chicken Breasts</Description>
+		<Price>$3.95</Price>
+		<Sale>$3.45</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/23.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000024</ProductNumber>
+		<Name>Hot Dog's</Name>
+		<Category>Meat Products</Category>
+		<Company>Birchland Industries</Company>
+		<Description>Pure Pork Hot Dogs!</Description>
+		<Price>$3.99</Price>
+		<Sale>$3.39</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/24.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000025</ProductNumber>
+		<Name>Beef</Name>
+		<Category>Meat Products</Category>
+		<Company>Birchland Industries</Company>
+		<Description>Ground Beef, 85% lean, 15% Fat!</Description>
+		<Price>$5.99</Price>
+		<Sale>$4.89</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/25.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000026</ProductNumber>
+		<Name>Salami</Name>
+		<Category>Meat Products</Category>
+		<Company>Gortan's</Company>
+		<Description>Spicy Pork, Salami!</Description>
+		<Price>$2.99</Price>
+		<Sale>$2.69</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/26.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000027</ProductNumber>
+		<Name>America's Favourite Bacon</Name>
+		<Category>Meat Products</Category>
+		<Company>Gortan's</Company>
+		<Description>Tendor Pork Meat!</Description>
+		<Price>$5.99</Price>
+		<Sale>$4.96</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/27.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000028</ProductNumber>
+		<Name>Pepperoni</Name>
+		<Category>Meat Products</Category>
+		<Company>Armour</Company>
+		<Description>Over 70 Slices of Turkey Pepperoni!</Description>
+		<Price>$5.99</Price>
+		<Sale>$5.25</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/28.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000029</ProductNumber>
+		<Name>Tomatoes</Name>
+		<Category>Fruits and Vegetables</Category>
+		<Company>Birchland Industries</Company>
+		<Description>16 Tomatoes.</Description>
+		<Price>$8.00</Price>
+		<Sale>$7.00</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/29.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000030</ProductNumber>
+		<Name>Lettuce</Name>
+		<Category>Fruits and Vegetables</Category>
+		<Company>Birchland Industries</Company>
+		<Description>Lettuce</Description>
+		<Price>$1.49</Price>
+		<Sale>$1.29</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/30.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000031</ProductNumber>
+		<Name>Asparagus</Name>
+		<Category>Fruits and Vegetables</Category>
+		<Company>Birchland Industries</Company>
+		<Description>2 Pound Asparagus Pack.</Description>
+		<Price>$4.99</Price>
+		<Sale>$3.99</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/31.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000032</ProductNumber>
+		<Name>Potatoes</Name>
+		<Category>Fruits and Vegetables</Category>
+		<Company>Birchland Industries</Company>
+		<Description>5 Pound Potatoes Pack.</Description>
+		<Price>$2.79</Price>
+		<Sale>$2.49</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/32.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000033</ProductNumber>
+		<Name>Onions</Name>
+		<Category>Fruits and Vegetables</Category>
+		<Company>Birchland Industries</Company>
+		<Description>10 Pound Onion Bag.</Description>
+		<Price>$5.99</Price>
+		<Sale>$4.99</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/33.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000034</ProductNumber>
+		<Name>Eggplant</Name>
+		<Category>Fruits and Vegetables</Category>
+		<Company>Birchland Industries</Company>
+		<Description>2 Pound Eggplant pack.</Description>
+		<Price>$3.00</Price>
+		<Sale>$2.69</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/34.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000035</ProductNumber>
+		<Name>Cabbage</Name>
+		<Category>Fruits and Vegetables</Category>
+		<Company>Birchland Industries</Company>
+		<Description>3 Pound Cabbage</Description>
+		<Price>$2.29</Price>
+		<Sale>$1.99</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/35.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000036</ProductNumber>
+		<Name>Green Pepper</Name>
+		<Category>Fruits and Vegetables</Category>
+		<Company>Birchland Industries</Company>
+		<Description>1 Pound Green Pepper Package.</Description>
+		<Price>$3.25</Price>
+		<Sale>$2.35</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/36.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000037</ProductNumber>
+		<Name>Banana</Name>
+		<Category>Fruits and Vegetables</Category>
+		<Company>Birchland Industries</Company>
+		<Description>7 Bananas.</Description>
+		<Price>$1.99</Price>
+		<Sale>$1.69</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/37.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000038</ProductNumber>
+		<Name>Grapes</Name>
+		<Category>Fruits and Vegetables</Category>
+		<Company>Birchland Industries</Company>
+		<Description>Grapes Bag.</Description>
+		<Price>$4.20</Price>
+		<Sale>$3.99</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/38.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000039</ProductNumber>
+		<Name>Strawberry</Name>
+		<Category>Fruits and Vegetables</Category>
+		<Company>Birchland Industries</Company>
+		<Description>1 Carton of Strawberries.</Description>
+		<Price>$3.39</Price>
+		<Sale>$2.99</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/39.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000040</ProductNumber>
+		<Name>Apples</Name>
+		<Category>Fruits and Vegetables</Category>
+		<Company>Birchland Industries</Company>
+		<Description>2 Pound Apple Bag.</Description>
+		<Price>$4.00</Price>
+		<Sale>$3.49</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/40.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000041</ProductNumber>
+		<Name>Pears</Name>
+		<Category>Fruits and Vegetables</Category>
+		<Company>Birchland Industries</Company>
+		<Description>2 Pound Pears Bag.</Description>
+		<Price>$5.00</Price>
+		<Sale>$4.50</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/41.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000042</ProductNumber>
+		<Name>Watermelon</Name>
+		<Category>Fruits and Vegetables</Category>
+		<Company>Birchland Industries</Company>
+		<Description>Quarter of a Watermelon, 5.5 Pound.</Description>
+		<Price>$5.36</Price>
+		<Sale>$4.39</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/42.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000043</ProductNumber>
+		<Name>Papaya</Name>
+		<Category>Fruits and Vegetables</Category>
+		<Company>Birchland Industries</Company>
+		<Description>1 3 Pound Papaya</Description>
+		<Price>$5.59</Price>
+		<Sale>$4.99</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/43.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000044</ProductNumber>
+		<Name>Pineapple</Name>
+		<Category>Fruits and Vegetables</Category>
+		<Company>Birchland Industries</Company>
+		<Description>3 Pound Pineapple</Description>
+		<Price>$3.99</Price>
+		<Sale>$3.49</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/44.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000045</ProductNumber>
+		<Name>Blueberry</Name>
+		<Category>Fruits and Vegetables</Category>
+		<Company>Birchland Industries</Company>
+		<Description>1 Pound Blueberry Pack.</Description>
+		<Price>$2.39</Price>
+		<Sale>$1.99</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/45.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000046</ProductNumber>
+		<Name>Orange</Name>
+		<Category>Fruits and Vegetables</Category>
+		<Company>Birchland Industries</Company>
+		<Description>2 Pound Bag of Oranges.</Description>
+		<Price>$4.49</Price>
+		<Sale>$3.99</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/46.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000047</ProductNumber>
+		<Name>Mango</Name>
+		<Category>Fruits and Vegetables</Category>
+		<Company>Birchland Industries</Company>
+		<Description>5 Pound Mango Package</Description>
+		<Price>$10.36</Price>
+		<Sale>$9.64</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/47.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000048</ProductNumber>
+		<Name>Oreo</Name>
+		<Category>Snacks</Category>
+		<Company>Nabisco</Company>
+		<Description>Box of Oreo Cookies!</Description>
+		<Price>$4.29</Price>
+		<Sale>$3.89</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/48.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000049</ProductNumber>
+		<Name>Chewy</Name>
+		<Category>Snacks</Category>
+		<Company>Quaker</Company>
+		<Description>12 Peanut Butter Chocalate Chip Granola Bars!</Description>
+		<Price>$2.39</Price>
+		<Sale>$1.99</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/49.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000050</ProductNumber>
+		<Name>Doritos</Name>
+		<Category>Snacks</Category>
+		<Company>Doritos</Company>
+		<Description>Extra Spicy Nacho Chips</Description>
+		<Price>$2.49</Price>
+		<Sale>$1.99</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/50.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000051</ProductNumber>
+		<Name>Original Strings</Name>
+		<Category>Snacks</Category>
+		<Company>Peelable Cheese</Company>
+		<Description>Original Cheese Strings!</Description>
+		<Price>$3.69</Price>
+		<Sale>$3.19</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/51.jpg</Image>
+	</Item>
+<Item>
+		<ProductNumber>000052</ProductNumber>
+		<Name>Quakes Rice Snacks</Name>
+		<Category>Snacks</Category>
+		<Company>Quaker</Company>
+		<Description>Sweet and Salty Rice Snacks!</Description>
+		<Price>$2.69</Price>
+		<Sale>$2.09</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/52.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000053</ProductNumber>
+		<Name>Pudding</Name>
+		<Category>Snacks</Category>
+		<Company>Enjoy</Company>
+		<Description>4 Chocolate Pudding Cups!</Description>
+		<Price>$2.49</Price>
+		<Sale>$1.99</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/53.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000054</ProductNumber>
+		<Name>Cheesecake</Name>
+		<Category>Desserts</Category>
+		<Company>Birchland Industries</Company>
+		<Description> 10 Inch Cheesecakes, which Weighs 4 Pounds!</Description>
+		<Price>$18.49</Price>
+		<Sale>$16.59</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/54.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000055</ProductNumber>
+		<Name>Oreo</Name>
+		<Category>Desserts</Category>
+		<Company>Nabisco</Company>
+		<Description>4 Vanilla  Flavour Ice Cream with Oreo Biscuit Pices!</Description>
+		<Price>$5.99</Price>
+		<Sale>$4.59</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/55.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000056</ProductNumber>
+		<Name>Yogo</Name>
+		<Category>Desserts</Category>
+		<Company>Yogo</Company>
+		<Description>Vanilla Flavoured Yogourt Icecream!</Description>
+		<Price>$6.99</Price>
+		<Sale>$5.39</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/56.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000057</ProductNumber>
+		<Name>Oreo Brownies</Name>
+		<Category>Desserts</Category>
+		<Company>Nabisco</Company>
+		<Description>Cream Filled Oreo Brownies!</Description>
+		<Price>$3.99</Price>
+		<Sale>$3.39</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/57.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000058</ProductNumber>
+		<Name>Fruit Salad</Name>
+		<Category>Desserts</Category>
+		<Company>Birchland Industries</Company>
+		<Description>Tropical Fruit Salad!</Description>
+		<Price>$7.99</Price>
+		<Sale>$6.39</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/58.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000059</ProductNumber>
+		<Name>Traditional Spaghetti Sauce</Name>
+		<Category>Can Foods</Category>
+		<Company>Birchland Industries</Company>
+		<Description>Original Style Spaghetti Sauce</Description>
+		<Price>$3.99</Price>
+		<Sale>$3.19</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/59.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000060</ProductNumber>
+		<Name>Tomato Soup</Name>
+		<Category>Can Foods</Category>
+		<Company>Campbell's</Company>
+		<Description>Condensed Tomato Soup</Description>
+		<Price>$1.29</Price>
+		<Sale>$0.99</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/60.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000061</ProductNumber>
+		<Name>Chicken Noodle Soup</Name>
+		<Category>Can Foods</Category>
+		<Company>Campbell's</Company>
+		<Description>Condensed Chicken Noodle Soup</Description>
+		<Price>$1.29</Price>
+		<Sale>$1.09</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/61.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000062</ProductNumber>
+		<Name>Progresso Black Beans</Name>
+		<Category>Can Foods</Category>
+		<Company>Quality Foods</Company>
+		<Description>Canned Black Beans!</Description>
+		<Price>$0.99</Price>
+		<Sale>$0.89</Sale>
+		<OnSale>no</OnSale>
+		<Image>image/62.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000063</ProductNumber>
+		<Name>Whole Kernal Corn!</Name>
+		<Category>Can Foods</Category>
+		<Company>Del Monte</Company>
+		<Description>Canned Whole Kernel Corn!</Description>
+		<Price>$1.49</Price>
+		<Sale>$1.09</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/63.jpg</Image>
+	</Item>
+	<Item>
+		<ProductNumber>000064</ProductNumber>
+		<Name>Pinapple Juice</Name>
+		<Category>Can Foods</Category>
+		<Company>Dole</Company>
+		<Description>Canned Pineapple Juice!</Description>
+		<Price>$1.49</Price>
+		<Sale>$1.19</Sale>
+		<OnSale>yes</OnSale>
+		<Image>image/64.jpg</Image>
+	</Item>
+</Product>

@@ -1,0 +1,151 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container{
+	background-color:#A5F3F6;
+	font-family: "Helvetica LT Std", sans-serif;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#heading{
+	background-color:#0F7E83;
+	font-family:"Helvetica LT Std", sans-serif;
+	font-size:72px;
+	color:red;
+}
+
+h2{
+	font-family:"Helvetica LT Std", sans-serif;
+}
+
+h3{
+	font-family:"Helvetica LT Std", sans-serif;
+	margin-bottom:0px;
+}
+
+#menubutton {
+	font-family:"Helvetica LT Std", sans-serif;
+	font-size:16px;
+	color:#FFF;
+	border:none;
+	border-bottom:groove;
+	border-bottom-color:#47E2E9;
+	text-align:left;
+	background-color:#539DA0;
+	width:33%;
+	height:30px;
+	margin-top:2px;
+	text-align:center;
+}
+
+#sidebarbutton {
+	text-align:left;
+	font-family:"Helvetica LT Std", sans-serif;
+	font-size:16px;
+	background-color:#9FE1DF;
+	width:100%;
+	height:30px;
+	margin:1px;
+}
+
+input[type="text"]{
+	width:195px;
+	height:22px;
+}
+
+button[type="submit"] {
+	border-style: none; 
+	background: url('image/searchbutton2.gif') no-repeat; 
+	width: 24px; 
+	height: 22px;
+}
+
+#content{
+	padding:2px;
+	width:750px;
+	height:1400px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:left;
+	background-color:#FFF;
+	overflow:auto;
+}
+
+#menubar{
+	font-family: "Helvetica LT Std", sans-serif;
+	text-align:center;
+	background-color:#FFF;
+	width:250px;
+	height:1400px;
+}
+
+#product{
+	font-family: "Helvetica LT Std", sans-serif;
+	background-color:#9FE1DF;
+	padding:5px;
+	width:680px;
+	float:left;
+}
+
+#name{
+	font-size:30px;
+	font-weight:bold;
+	float:left;
+}
+
+#number{
+	font-size:10px;
+}
+
+#image{
+	width:150px;
+	height:130px;
+	border-style:solid;
+}
+
+#price{
+	font-size:30px;
+	color:green;
+	float:right;
+}
+
+#sale{
+	margin-right:5px;
+	color:red;
+	text-decoration:line-through;
+	float:right;
+}
+
+#quantityBox{
+	text-align:right;
+}
+
+#cart{
+	background-color:#9FE1DF;
+	font-family: "Helvetica LT Std", sans-serif;
+	border:solid;
+	border-color:#000;
+	width:100%;
+}
+	
+#cart td{
+	border-color:#000;
+}
+
+#addToCart{
+	width:205px;
+	height:60px;
+	float:right;
+}
+
+#checkOutForm{
+	font-family: "Helvetica LT Std", sans-serif;	
+	border-style:none;
+	width:310px;
+}
+
+#addtocartbutton{
+	border-style:none;
+	width:204px;
+}
